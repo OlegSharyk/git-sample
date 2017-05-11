@@ -7,9 +7,5 @@ sadkjasbkjdas
 sadsadas
 dsadasd 
 as dsadasdsa dsadasdas d
-<<<<<<< HEAD
-
-git new changes desc
-=======
 fdgdfgdfg
->>>>>>> commit from master
+
