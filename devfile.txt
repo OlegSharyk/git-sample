@@ -1,6 +1,12 @@
 hello dev
+<<<<<<< HEAD
 
 
 hello my dev
 git new changes
 my change
+=======
+
+my change
+hello my dev
+>>>>>>> commit from master
